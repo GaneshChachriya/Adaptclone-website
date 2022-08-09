@@ -8,8 +8,8 @@ default: &default
   adapter: postgresql
   encoding: unicode
   pool: 5
-  username: rails
-  password: rails
+  username: postgres
+  password: 12345678
   host: localhost
   port: 5432
 
